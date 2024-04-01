@@ -1,4 +1,4 @@
-<h2 align="left">Hola, mi nombre es Pedro JosÉ Boceta Domínguez y estudio Primero de DAM</h2>
+<h2 align="left">Hola, mi nombre es Pedro José Boceta Domínguez y estudio Primero de DAM</h2>
 
 ###
 
